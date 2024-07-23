@@ -1,0 +1,6 @@
+export const profilePic = require('../assets/Ellipse6.png')
+export const bellIcon = require('../assets/notfIcon.png')
+export const heartIcon = require('../assets/HeartIcon.png')
+export const searchIcon = require('../assets/search.png')
+export const pageInfoIcon = require('../assets/page_info.png')
+export const favIcon = require('../assets/favorite.png')
